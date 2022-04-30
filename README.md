@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Malthus Cunha 👋
 
-- 🔭 Hoje trabalho com mobile
+- 🔭 Hoje trabalho com Flutter
 - 🌱 Estudando Flutter
 - 📫 Contato: malthuspk@gmail.com
 
