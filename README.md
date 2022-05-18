@@ -20,7 +20,9 @@
 </div>
   
 <div align="center">
+  
   ![Snake animation](https://github.com/Maltinhoo/Maltinhoo/blob/output/github-contribution-grid-snake.svg)
+  
   </div>
 
   
