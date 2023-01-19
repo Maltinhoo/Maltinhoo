@@ -1,7 +1,7 @@
 ### Olá! Eu sou o Malthus Cunha 👋
 
 - 🔭 Hoje trabalho com Flutter
-- 🌱 Estudante de Ciência da Computação
+- 🌱 Formado em Ciência da Computação
 - 📫 Contato: malthuspk@gmail.com
 
 <a href="https://www.linkedin.com/in/malthuscunha/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
